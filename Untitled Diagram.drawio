@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T00:15:12.601Z" agent="5.0 (Macintosh)" etag="dZZevRp9cZcdaHoQIUry" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T00:20:37.871Z" agent="5.0 (Macintosh)" etag="NkkxN-psW65-SN2boZlm" version="14.2.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="976" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -16,7 +16,7 @@
             <mxPoint x="135" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="revenue_fact" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="revenue_fact" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="250" height="180" as="geometry">
             <mxRectangle x="250" y="400" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
